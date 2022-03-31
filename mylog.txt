@@ -1,0 +1,29 @@
+commit 72d7c8d7c375d5b7810dd3d74a59b626077d5ef9
+Author: yapsylvia <yapsylvia@yahoo.com>
+Date:   Thu Mar 31 16:43:17 2022 +0200
+
+    file myignore added
+
+commit 0cf4bf81a9373615a76dd71055ccc0c078a2fd62
+Author: yapsylvia <yapsylvia@yahoo.com>
+Date:   Thu Mar 31 16:32:01 2022 +0200
+
+    gitignore created
+
+commit fe942b573da62db72c9c71595a6257cc97407e9d
+Author: yapsylvia <yapsylvia@yahoo.com>
+Date:   Thu Mar 31 15:33:22 2022 +0200
+
+    two new files file1 and file2 created
+
+commit 643eb1f89ae4c292fccbf1db06e564b06146c87f
+Author: yapsylvia <yapsylvia@yahoo.com>
+Date:   Thu Mar 31 15:26:53 2022 +0200
+
+    added a line to my file readme.txt
+
+commit bddc0ade60baf41d104fb4f1811a57d98cd114c1
+Author: yapsylvia <yapsylvia@yahoo.com>
+Date:   Thu Mar 31 15:19:55 2022 +0200
+
+    the file readme.txt was created
