@@ -1,3 +1,9 @@
+commit d89964d5277841eb67bab3169bdf4614407a13cc
+Author: yapsylvia <yapsylvia@yahoo.com>
+Date:   Thu Mar 31 23:29:34 2022 +0200
+
+    log info stored in a file
+
 commit 72d7c8d7c375d5b7810dd3d74a59b626077d5ef9
 Author: yapsylvia <yapsylvia@yahoo.com>
 Date:   Thu Mar 31 16:43:17 2022 +0200
