@@ -1,30 +1,21 @@
-# This is a large heading
+# Sylvia
 
-## This is a smaller heading
+### Geography
+I live in Berlin, in the Nord Ost of Germany.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
+I dont like reading bur if I have o choose my favorite books they would be:
+- An then there were None
+- Bridgerton
+- 
+### Food
+Last night I dreamt about eating in the follwing restaurants:
+1. African Food in Douala
+2. Khan Mongolian Restaurant in Darmstadt
+3. 
 
-- This is
-- an unordered
-- list
+### Contacts
+I am not a social person but I guess the best way to get in touch with me ist 
+[On LinkedIn](https://en.wikipedia.org/wiki/GitHub)
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+nano README
